@@ -1,4 +1,5 @@
 # Test-Case-Mahfil-App-iOS-
+Report Link: **https://docs.google.com/spreadsheets/d/1Z-5fdRb59WXJDJVjGbt4u8kXUtFTeToJwTuqOW919-Q/edit?usp=sharing**<br/>
 Task: Test Case + Bug Report
 
 App Description: You are tasked with testing the Mahfil app. The app is a mobile application designed to provide users with a platform for streaming unique Islamic content, including waz (sermons), nasheed (Islamic songs), tilawat (Quranic recitation), Islamic shorts, short films, halal documentaries, funny videos, and Islamic lectures. Users can engage with the content by liking, commenting, replying, downloading videos, adding to the wishlist, and updating their profile.
